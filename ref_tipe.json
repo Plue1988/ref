@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Nasional",
+    "value": "nasional"
+  },
+  {
+    "label": "Se-provinsi",
+    "value": "provinsi"
+  },
+  {
+    "label": "Pemda",
+    "value": "pemda"
+  }
+]
